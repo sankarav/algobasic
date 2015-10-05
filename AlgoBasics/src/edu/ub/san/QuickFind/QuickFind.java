@@ -36,6 +36,10 @@ public class QuickFind {
     }
     
     
+    /**
+     * Tester Method
+     * @param args 
+     */
     public static void main(String[] args) {
         QuickFind qf = new QuickFind(10);
         
